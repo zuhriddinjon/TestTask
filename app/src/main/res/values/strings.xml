@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="title_home">Главная</string>
+    <string name="title_service">Сервисы</string>
+    <string name="title_community">Сообщество</string>
+    <string name="title_profile">Профиль</string>
+</resources>
